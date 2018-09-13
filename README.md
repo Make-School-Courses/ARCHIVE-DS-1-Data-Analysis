@@ -23,22 +23,22 @@ Learn the foundational skills of data science, including data collection, scrubb
 
 This schedule is tentative and subject to change as the course progresses.
 
-Class 1: Tuesday, August 28th
-[] Lecture & Discussion
-NOTE: Students should ALREADY have Class 1 repo/dataset setup! 
-Data Science Toolkit/Process
-Anaconda
-Jupyter Notebooks
-Pandas
-Basic Data Literacy
-Dataframes and series
-Data Manipulation
-Creating dataframes from various sources
-Manipulating data with Pandas and Numpy
-Reading
-TBD
-Challenges
-10 min to Pandas tutorial (https://pandas.pydata.org/pandas-docs/stable/10min.html) 
+* Class 1: Tuesday, August 28th
+    ** Lecture & Discussion
+    ** NOTE: Students should ALREADY have Class 1 repo/dataset setup! 
+    ** Data Science Toolkit/Process
+    ** Anaconda
+    ** Jupyter Notebooks
+    Pandas
+    Basic Data Literacy
+    Dataframes and series
+    Data Manipulation
+    Creating dataframes from various sources
+    Manipulating data with Pandas and Numpy
+    Reading
+    TBD
+    Challenges
+    10 min to Pandas tutorial (https://pandas.pydata.org/pandas-docs/stable/10min.html) 
 
 Class 2: Thursday, August 30th
     Lecture & Discussion
