@@ -17,3 +17,4 @@ Learn the foundational skills of data science, including data collection, scrubb
 3. Apply statistical test to conclude about findings
 4. A/B testing 
 5. Analyse data statistically
+6. Multiple hands on and projects in Python using packages such as Pandas, Matplotliob, Seaborn, Spicy.stats
