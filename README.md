@@ -24,7 +24,7 @@ Learn the foundational skills of data science, including data collection, scrubb
 This schedule is tentative and subject to change as the course progresses.
 
 Class 1: Tuesday, August 28th
-Lecture & Discussion
+[] Lecture & Discussion
 NOTE: Students should ALREADY have Class 1 repo/dataset setup! 
 Data Science Toolkit/Process
 Anaconda
