@@ -38,24 +38,22 @@ This schedule is tentative and subject to change as the course progresses.
     * Challenges
       * 10 min to Pandas tutorial (https://pandas.pydata.org/pandas-docs/stable/10min.html) 
 
-Class 2: Thursday, August 30th
-    Lecture & Discussion
-    Building Visualizations with Seaborn
-    Basic Data Visualization
-    Scatter Plots
-    Bar Graphs/Histograms
-    Pie Charts
-    Review of Data Analysis
-    Common data problems
-    DataFrame slicing/indexing/filtering
-    Data types/structures
-    Basic Data Literacy
-    Continuous vs. discrete data
-    10 minutes to pandas review and Q&A session
-    Reading
-    TBD
-    Challenges
-    Build 3-5 visualizations based off of descriptive questions you have on Titanic data. 
+* Class 2: Thursday, August 30th
+    * Lecture & Discussion
+    * Building Visualizations with Seaborn
+    * Basic Data Visualization
+    * Scatter Plots
+    * Bar Graphs/Histograms
+    * Pie Charts
+    * Review of Data Analysis
+    * Common data problems
+    * DataFrame slicing/indexing/filtering
+    * Data types/structures
+    * Basic Data Literacy
+    * Continuous vs. discrete data
+    * 10 minutes to pandas review and Q&A session
+    * Challenges
+      * Build 3-5 visualizations based off of descriptive questions you have on Titanic data. 
 
 Class 3: Tuesday, September 4th
     Lecture & Discussion
