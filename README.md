@@ -13,7 +13,7 @@ Learn the foundational skills of data science, including data collection, scrubb
 ## Learning Objective
 
 1. Students can learn and do data pulling, data manipulation, data processing, data cleaning
-2. Undestand data visulation for convey findings to non-experts
+2. Undestand data visulation for conveying findings to non-experts
 3. Apply statistical test to conclude about findings
 4. A/B testing 
 5. Analyse data statistically
@@ -24,21 +24,21 @@ Learn the foundational skills of data science, including data collection, scrubb
 This schedule is tentative and subject to change as the course progresses.
 
 Class 1: Tuesday, August 28th
-    Lecture & Discussion
-    NOTE: Students should ALREADY have Class 1 repo/dataset setup! 
-    Data Science Toolkit/Process
-    Anaconda
-    Jupyter Notebooks
-    Pandas
-    Basic Data Literacy
-    Dataframes and series
-    Data Manipulation
-    Creating dataframes from various sources
-    Manipulating data with Pandas and Numpy
-    Reading
-    TBD
-    Challenges
-    10 min to Pandas tutorial (https://pandas.pydata.org/pandas-docs/stable/10min.html) 
+Lecture & Discussion
+NOTE: Students should ALREADY have Class 1 repo/dataset setup! 
+Data Science Toolkit/Process
+Anaconda
+Jupyter Notebooks
+Pandas
+Basic Data Literacy
+Dataframes and series
+Data Manipulation
+Creating dataframes from various sources
+Manipulating data with Pandas and Numpy
+Reading
+TBD
+Challenges
+10 min to Pandas tutorial (https://pandas.pydata.org/pandas-docs/stable/10min.html) 
 
 Class 2: Thursday, August 30th
     Lecture & Discussion
