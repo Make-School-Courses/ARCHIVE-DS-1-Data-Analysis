@@ -13,3 +13,7 @@ Learn the foundational skills of data science, including data collection, scrubb
 ## Learning Objective
 
 1. Students can learn and do data pulling, data manipulation, data processing, data cleaning
+2. Undestand data visulation for convey findings to non-experts
+3. Apply statistical test to conclude about findings
+4. A/B testing 
+5. Analyse data statistically
