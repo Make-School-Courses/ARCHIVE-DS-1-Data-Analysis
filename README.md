@@ -1,4 +1,6 @@
-DS1: Data Analysis, Databases, and Data Visualization
+# DS1: Data Analysis, Databases, and Data Visualization
+
+## NOTE: This repo is no longer maintained
 
 **_This repo is still under construction.  Things will be added and changed as the course progresses--check back often!_**
 
